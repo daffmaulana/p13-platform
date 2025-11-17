@@ -1,0 +1,94 @@
+{
+  "result": [
+  {
+    "nama": "Megalodon",
+    "berat": "315.42K kg",
+    "lokasi": "Ocean",
+    "mutasi": "Stone",
+    "tanggal": "11-17-2025",
+    "rarity": "1/4M",
+    "gambar": "https://i.ibb.co.com/5WLJFkx9/Screenshot-2025-11-17-170432.png"
+  },
+  {
+    "nama": "Elshark Gran Maja",
+    "berat": "565.83K kg",
+    "lokasi": "Sacred Temple",
+    "mutasi": "Big",
+    "tanggal": "10-30-2025",
+    "rarity": "1/4M",
+    "gambar": "https://i.ibb.co.com/zTNS5gzP/Screenshot-2025-11-17-171231.png"
+  },
+  {
+    "nama": "King Jelly",
+    "berat": "200K kg",
+    "lokasi": "Ancient Jungle",
+    "mutasi": "Big",
+    "tanggal": "10-30-2025",
+    "rarity": "1/1.5M",
+    "gambar": "https://i.ibb.co.com/WrXDrjd/Screenshot-2025-11-17-170453.png"
+  },
+  {
+    "nama": "King Crab",
+    "berat": "147.07K kg",
+    "lokasi": "Treasure Room",
+    "mutasi": "Normal",
+    "tanggal": "09-17-2025",
+    "rarity": "1/1.2M",
+    "gambar": "https://i.ibb.co.com/TqqP6KXN/Screenshot-2025-11-17-170502.png"
+  },
+  {
+    "nama": "Gladiator Shark",
+    "berat": "16.20K kg",
+    "lokasi": "Ancient Ruin",
+    "mutasi": "Sandy",
+    "tanggal": "11-17-2025",
+    "rarity": "1/1M",
+    "gambar": "https://i.ibb.co.com/N6bCWmqV/Screenshot-2025-11-17-170532.png"
+  },
+  {
+    "nama": "Giant Squid",
+    "berat": "112.37K kg",
+    "lokasi": "Sisyphus Statue",
+    "mutasi": "Normal",
+    "tanggal": "09-27-2025",
+    "rarity": "1/800K",
+    "gambar": "https://i.ibb.co.com/8LKvnvZR/Screenshot-2025-11-17-170510.png"
+  },
+  {
+    "nama": "Skeleton Narwhal",
+    "berat": "495.2 kg",
+    "lokasi": "Ocean",
+    "mutasi": "Normal",
+    "tanggal": "11-07-2025",
+    "rarity": "1/600K",
+    "gambar": "https://i.ibb.co.com/6770kZ6R/Screenshot-2025-11-17-170554.png"
+  },
+  {
+    "nama": "Ghost Shark",
+    "berat": "1100 kg",
+    "lokasi": "Ocean",
+    "mutasi": "Normal",
+    "tanggal": "09-29-2025",
+    "rarity": "1/500K",
+    "gambar": "https://i.ibb.co.com/6770kZ6R/Screenshot-2025-11-17-170554.png"
+  },
+  {
+    "nama": "Thin Armor Shark",
+    "berat": "16.14 kg",
+    "lokasi": "Esoteric Depth",
+    "mutasi": "Normal",
+    "tanggal": "11-17-2025",
+    "rarity": "1/300K",
+    "gambar": "https://i.ibb.co.com/hJ5dhBHW/Screenshot-2025-11-17-170543.png"
+  },
+  {
+    "nama": "Blob Shark",
+    "berat": "563.1 kg",
+    "lokasi": "Ocean",
+    "mutasi": "Normal",
+    "tanggal": "11-15-2025",
+    "rarity": "1/250K",
+    "gambar": "https://i.ibb.co.com/JRTTpJLR/Screenshot-2025-11-17-170636.png"
+  }
+ ]
+}
